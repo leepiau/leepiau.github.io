@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Datacamp Projects
 
-- [Datacamp SQL Project - World's Oldest Business](https://github.com/leepiau/dc_oldest_biz/blob/main/notebook.html)
+- [SQL Project - World's Oldest Business](https://github.com/leepiau/dc_oldest_biz/blob/main/notebook.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
