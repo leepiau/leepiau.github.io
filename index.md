@@ -19,7 +19,7 @@
 
 ### Datacamp Projects
 
-- [SQL Project - World's Oldest Business](https://leepiau.github.io/dc_oldest_biz/notebook.html{:target="_blank"})
+- [SQL Project - World's Oldest Business](https://leepiau.github.io/dc_oldest_biz/notebook.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
