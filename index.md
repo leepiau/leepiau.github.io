@@ -28,9 +28,17 @@ An exercise in cleaning and transformation, including the use of fuzzywuzzy for 
 
 ---
 
-- [Python Project - History of Linux](https://github.com/leepiau/dc_linux))
-
+- [Python Project - History of Linux](https://github.com/leepiau/dc_linux)
 
 ---
+
+- [Python Project - History of Scalar](https://github.com/leepiau/dc_scalar)
+
+---
+
+- [Python Project - Name Game](https://github.com/leepiau/dc_name_game)
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
