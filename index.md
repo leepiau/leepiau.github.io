@@ -4,8 +4,10 @@
 
 ### Projects
 
-[Music & Mental Health](https://github.com/leepiau/mmh)
+[Music & Mental Health](https://github.com/leepiau/mmh)\
+\
 Write some text here
+\
 <img src="images/mmh.png?raw=true"/>
 
 ---
