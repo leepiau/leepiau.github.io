@@ -1,4 +1,4 @@
-## Projects
+## Personal & Group Projects
 
 [Music & Mental Health](https://github.com/leepiau/mmh)\
 \
