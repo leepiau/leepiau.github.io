@@ -1,7 +1,3 @@
-![image](https://github.com/leepiau/leepiau.github.io/assets/58648828/a0732b32-f4de-4019-982c-2391e9d3f57b)## Portfolio
-
----
-
 ### Projects
 
 [Music & Mental Health](https://github.com/leepiau/mmh)\
