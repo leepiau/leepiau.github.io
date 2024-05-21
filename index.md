@@ -8,7 +8,8 @@
 \
 This is a project where we take the results of a survey that asks respondents what, if any, genre of music they listened to,\
 how frequently they listened to the genres, and whether it helped improve their (self-declared) mental health conditions.\
-Based on this information, we recommend tracks to users suffering from the same mental health conditions.\ 
+Based on this information, we recommend tracks to users suffering from the same mental health conditions.
+\
 \
 <img src="images/mmh.png?raw=true"/>
 
