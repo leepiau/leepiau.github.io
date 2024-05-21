@@ -1,4 +1,4 @@
-## Portfolio
+![image](https://github.com/leepiau/leepiau.github.io/assets/58648828/a0732b32-f4de-4019-982c-2391e9d3f57b)## Portfolio
 
 ---
 
@@ -15,7 +15,12 @@ Based on this information, we recommend tracks to users suffering from the same 
 
 ---
 
-[Cleaning Olist Geolocation Data](https://leepiau.github.io/brazil_cep/brazil_cep.html)
+[Cleaning Olist Geolocation Data](https://github.com/leepiau/brazil_cep)
+\
+This is part of a larger data engineering project on ETL and analysis of the famous Olist dataset.\
+An exercise in cleaning and transformation, including the use of fuzzywuzzy for string-matching.
+\
+\
 <img src="images/olist.png?raw=true"/>
 
 ---
