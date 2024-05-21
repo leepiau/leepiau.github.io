@@ -1,4 +1,4 @@
-### Projects
+## Projects
 
 [Music & Mental Health](https://github.com/leepiau/mmh)\
 \
@@ -22,7 +22,7 @@ An exercise in cleaning and transformation, including the use of fuzzywuzzy for 
 ---
 
 
-### Datacamp Projects
+## Datacamp Projects
 
 - [SQL Project - World's Oldest Business](https://leepiau.github.io/dc_oldest_biz/notebook.html)
 
