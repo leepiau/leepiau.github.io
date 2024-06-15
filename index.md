@@ -1,4 +1,4 @@
-## Projects - Personal & Group
+## Projects
 
 [Music & Mental Health](https://github.com/leepiau/mmh)\
 \
@@ -21,6 +21,16 @@ An exercise in cleaning and transformation, including the use of fuzzywuzzy for 
 
 ---
 
+[Machine Learning - 1](https://github.com/leepiau/ml_1)\
+\
+This is a machine learning project, where we run a Linear Regression model and a Random Forest model on a dataset containing data related to the Delaney solubility benchmark,\
+so that we can test and choose a suitable model for predicting the solubility of a chemical compound given its molecular descriptors.
+\
+\
+<img src="images/machine-learning.png?raw=true"/>
+<a href="https://www.flaticon.com/free-icons/machine-learning" title="machine learning icons">Machine learning icons created by jojooid - Flaticon</a>
+
+---
 
 ## Projects - Datacamp
 
