@@ -31,6 +31,15 @@ This is a machine learning project, where we run a Linear Regression model and a
 
 ---
 
+[Caeser Cipher](https://github.com/leepiau/caeser_cipher)\
+\
+This project demonstrates encryption and decryption using a 2000 year old cipher. Named after Julius Caesar, the Caeser Cipher is a simple encryption method that employs letter substitution.
+\
+\
+<img src="images/caesar_cipher.png?raw=true"/>
+
+---
+
 ## Projects - Datacamp
 
 - [SQL Project - World's Oldest Business](https://leepiau.github.io/dc_oldest_biz/notebook.html)
